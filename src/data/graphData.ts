@@ -654,7 +654,7 @@ export const graphData: NodeData[] = [
         "url": "https://barrion.io/ai-pentesting",
         "type": "Tool",
         "rating": 8,
-        "description": "AI pentesting for web apps and APIs: agents test the app the way an attacker would, on demand or on a schedule, and findings are checked against the live app. Commercial, with a free passive website scan."
+        "description": "Commercial AI pentesting for web apps and APIs, run on demand or on a schedule. Includes a free passive website scan."
       }
     ],
     "x": 1.8,
