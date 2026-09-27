@@ -720,5 +720,11 @@
     "url": "https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive",
     "description": "Open database of real-world AI agent security incidents, one sourced record each, that flags confirmed harm and AI involvement separately from researcher demonstrations; JSON/CSV exports under CC BY 4.0.",
     "category": "Communities"
+  },
+  {
+    "title": "Barrion",
+    "url": "https://barrion.io/ai-pentesting",
+    "description": "AI pentesting for web apps and APIs: agents test the app the way an attacker would, on demand or on a schedule, and findings are checked against the live app. Commercial, with a free passive website scan.",
+    "category": "Tools"
   }
 ]
